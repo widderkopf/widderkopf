@@ -20,6 +20,29 @@ Die Gravur (Scrimshaw) zeigt seinen Namens-Patron den Hl. Georg. Lederscheide wu
       filename: "besondere/Papa/05.jpg"
       description: "Gesamtansicht in fer Scheide"
 
+- gallerytext: "<b><u>Eet smakelijk</u></b><br> Auftrag war ein Steakmesser als Geschenk vom Vater (Holländer) 
+für seinen Sohn. Das Messer ist in seiner Form an das Französische Traditionsunternehmen Laguiole angelehnt.
+Klinge aus 1.4116 Stahl auf 58°HRC gehärtet und poliert. Griff nach Wunsch aus Apfelbaum, Kramsacher Marmor, 
+Kuhhorn und rotem Vulkanfiber. Eingearbeitet wurden auch die Initialen des Besitzers. Verpackt in einer Holzbox, 
+kann es so, leicht zum Essen mitgenommen werden. Dies wurde mir erklärt sei in Holland eine Tradition. 
+ "
+  images:
+    - title:
+      filename: "besondere/Jan/1.jpg"
+      description: "Gesamtansicht in der Holzbox"
+    - title:
+      filename: "besondere/Jan/2.jpg"
+      description: "Ansicht Rücken"
+
+    - title:
+      filename: "besondere/Jan/3.jpg"
+      description: "Ansicht von links "
+
+    - title:
+      filename: "besondere/Jan/4.jpg"
+      description: "Ansicht von rechts"
+
+
 - gallerytext: "<b><u>Kleiner Helfer</u></b><br> Ein handliches Allzweckmesser wurde von meiner Lebensgefährtin gewünscht, das ist entstanden.<br>
 Die Klinge mit Fingerloch hat eine Länge von 12cm und ist aus 14C28N Stahl. Der Griff, gestockte, stabilisierte, Birke mit rotem Vulanfiber und Zierpins.
  "
