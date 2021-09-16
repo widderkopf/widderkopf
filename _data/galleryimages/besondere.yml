@@ -18,8 +18,25 @@ Die Gravur (Scrimshaw) zeigt seinen Namens-Patron den Hl. Georg. Lederscheide wu
 
     - title:
       filename: "besondere/Papa/05.jpg"
-      description: "Gesamtansicht in fer Scheide"
+      description: "Gesamtansicht in der Scheide"
 
+- gallerytext: "<b><u>Der Widder</u></b><br> Ein Schafzüchter in der Schweiz ist stolzer Besitzer dieses Messers geworden.<br>
+ Klinge 14C28N auf 58°Rockwell gehärtet, Parierstück Messing, Griff aus Birne die Àugen`sind Inlays aus Kuhhorn.
+ An der rechten Seite wurden die Initialen des Besitzers eingebracht.<br>
+ Die Lederscheide wurde gefärbt, punziert und angepasst.
+ "
+  images:
+    - title:
+      filename: "besondere/Schny/01.jpg"
+      description: "Gesamtansicht in der Scheide "
+    - title:
+      filename: "besondere/Schny/02.jpg"
+      description: "Der Widder"
+    - title:
+      filename: "besondere/Schny/03.jpg"
+      description: "Gesamtansicht"
+    
+      
 - gallerytext: "<b><u>Eet smakelijk</u></b><br> Auftrag war ein Steakmesser als Geschenk vom Vater (Holländer) 
 für seinen Sohn. Das Messer ist in seiner Form an das Französische Traditionsunternehmen Laguiole angelehnt.
 Klinge aus 1.4116 Stahl auf 58°HRC gehärtet und poliert. Griff nach Wunsch aus Apfelbaum, Kramsacher Marmor, 
