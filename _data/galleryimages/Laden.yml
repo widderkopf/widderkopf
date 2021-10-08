@@ -48,27 +48,6 @@
       filename: "Alpbachtaler/05.jpg"
       description: "Griff-ende, Wappen für Initialen"
 
-- gallerytext: "<b><u><br>Mit fremden Federn</u></b><br><br><br> 
- Ein sehr aufwendiges und wirklich schönes Jagdmesser ist es geworden.<br>
- Hier wurde ausnahmsweise einmal eine bereits fertige, 12cm Nicker-Klinge von Linder Solingen verwendet. Die Klinge wurde leicht mattiert. 
- Der Griff besteht aus Hirsch-Horn, Brandenberger Ulme (diese Art gibt's nur hier) Vulkanfiber und Messing.<br>
- Am Griff-Ende wurden stilisierte Enten eingraviert, ebenso wiederzufinden punziert auf der Scheide. <br>
- Auf Wunsch können am Griff-Ende individuell Initialen eingraviert werden. <br><br>
- Preis 345,- bei Interesse bitte hier klicken <a href='/kontakt?messagetext=Interesse am Jagdmesser `Mit Fremden Federn`'>Kontaktaufnahme</a>.<br><br>"
- 
-  images:
-    - title: 
-      filename: "Laden/01.jpg"
-      description: "Gesamtansicht"
-
-    - title: 
-      filename: "Laden/02.jpg"
-      description: "Detailansicht Griff"
-      
-    - title: 
-      filename: "Laden/03.jpg"
-      description: "Detailansicht Griff"
-
 
 
 - gallerytext: "<b><u><br>Patriot</u></b><br><br><br> 
@@ -104,8 +83,8 @@
       description: "01 Zwetschge mit Wasserbüffel und Vulkanfiber"
 
     - title: 
-      filename: "Laden/11.jpg"
-      description: "02 Apfelbaum mit Hirschhorn"
+      filename: ""
+      description: ""
       
     - title: 
       filename: "Laden/12.jpg"
