@@ -3,51 +3,17 @@
   
   
   images:
-    - title: "Traditionelles..."
-      filename: "start/001.jpg"
-      description: "Bring me Edelweiß"
+    - title: "Fröhliche"
+      filename: "start/Weihnachten.jpg"
+      description: "Schöne Weihnachten"
             
 
-    - title: "Traditionelles..."
-      filename: "start/Schneider.jpg"
-      description: "Schneidermeister"
+    - title: "Weihnachten"
+      filename: "start/Weihnachten.jpg"
+      description: "Schöne Weihnachten"
      
-    - title: "Traditionelles..."
-      filename: "start/Bayern.jpg"
-      description: "Bayern"
+    - title: "euch allen"
+      filename: "start/Weihnachten.jpg"
+      description: "Schöne Weihnachten"
 
-    - title: "Scharfes..."
-      filename: "start/Kochbuch.jpg"
-      description: "Kochbuch mal anders"
-
-    - title: "Scharfes..."
-      filename: "start/B&S1.jpg"
-      description: "Brüderchen und Schwesterchen"           
     
-    - title: "Scharfes..."
-      filename: "start/Reise.jpg"
-      description: "Auf großer Reise"
-      
-    - title: "Latein..."
-      filename: "start/Siegi.jpg"
-      description: "Jaga"
-
-    - title: "Latein..."
-      filename: "start/Lederhose trifft Fischer.jpg"
-      description: "Lederhose trifft Fischer"    
-
-    - title: "Latein..."
-      filename: "start/Fischer1.jpg"
-      description: "Fischermanns Freund"
-
-    - title: "Besondere Stücke"
-      filename: "start/01.jpg"
-      description: "Wilde Reiterei"
-
-    - title: "Besondere Stücke"
-      filename: "start/Papa.jpg"
-      description: "Geburtstag Papa"    
-
-    - title: "Besondere Stücke"
-      filename: "start/Toni.jpg"
-      description: "Alter Apfel"
