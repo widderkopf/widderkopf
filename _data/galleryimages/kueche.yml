@@ -1,4 +1,21 @@
-﻿- gallerytext: "<b><u>Nuss trifft Ahorn</u></b><br><br> Diese beiden Messer sind nun im Steirischen 
+﻿- gallerytext: "<b><u>Schweres Teil</u></b><br><br>Beil auf Wunsch in einer schweren Ausführung.<br>    
+    Stahl Böhler N690 5mm stark gehärtet auf 58°HRC. <br> 
+    Der Griff besteht aus Brandenberger Ulme und Büffelhorn mit selbst gefertigten Zierpins.<br>
+    Am Griffende wurde eine polierte Steinnuss eingesetzt, diese wurde mit einer ´Scrimshaw´ Gravur des Familienwappens versehen.
+    
+" 
+  images:
+    - title:
+      filename: "besondere/Toni/06.jpg"
+      description: "Gesamtansicht in der Lederscheide"
+    - title:
+      filename: "besondere/Toni/07.jpg"
+      description: "Detailansicht Griff"
+    - title:
+      filename: "besondere/Toni/08.jpg"
+      description: "Detailansicht Steinnuss mit Wappen" 
+
+ - gallerytext: "<b><u>Nuss trifft Ahorn</u></b><br><br> Diese beiden Messer sind nun im Steirischen 
     Wechselgebiet auf einem Biohof beheimatet<br>    
     Die Klingen sind in Gyuto Form aus Balbach Inox Damast `kleine Rosen gearbeitet und haben eine Härte von 58°HRC. <br> 
     Die Griffe bestehen aus Nussbaum und Ahorn mit Büffelhorn .<br>
@@ -20,7 +37,7 @@
       description: "Detailansicht Griffenden mit Initialen" 
     - title:
       filename: "Kuchl/A_Z/5.jpg"
-      description: "Gesamtansicht in dsen Lederscheiden" 
+      description: "Gesamtansicht in den Lederscheiden" 
 
 - gallerytext: "<b><u>Generation mit Tradition</u></b><br><br> Ein Geschenk vom Kunden an seine Lebensgefährtin.<br>Hier war der Auftrag ein Stück vom uralten Nussbaum 
     im Garten für den Griff zu verwenden.<br> Eine Herausforderung da der Kern bereits faul war. Das Stück wurde leicht schräg geschnitten, stabilisiert 
