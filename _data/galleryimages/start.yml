@@ -3,17 +3,17 @@
   
   
   images:
-    - title: "Fröhliche"
-      filename: "start/Weihnachten.jpg"
-      description: "Schöne Weihnachten"
+    - title: ""
+      filename: "start/.jpg"
+      description: ""
             
 
-    - title: "Weihnachten"
-      filename: "start/Weihnachten.jpg"
-      description: "Schöne Weihnachten"
+    - title: ""
+      filename: "start/.jpg"
+      description: ""
      
-    - title: "euch allen"
-      filename: "start/Weihnachten.jpg"
-      description: "Schöne Weihnachten"
+    - title: ""
+      filename: "start/.jpg"
+      description: ""
 
     
