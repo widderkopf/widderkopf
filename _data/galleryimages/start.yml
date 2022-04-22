@@ -3,17 +3,27 @@
   
   
   images:
-    - title: ""
-      filename: "start/.jpg"
-      description: ""
+    - title: "Meins"
+      filename: "start/Meins.jpg"
+      description: "Was besonderes für meine Lederhose"
             
 
-    - title: ""
+    - title: "S Alpbachtaler"
       filename: "start/.jpg"
-      description: ""
+      description: "Ein Stück Heimat"
      
-    - title: ""
-      filename: "start/.jpg"
-      description: ""
+    - title: "Reise"
+      filename: "start/Reise.jpg"
+      description: "Messerset im Holzkoffer"
 
-    
+    - title: "Joglland"
+      filename: "start/Joglland.jpg"
+      description: "Ein Dou für die Küche, Rosendamast"
+
+    - title: "Beil"
+      filename: "start/Beil.jpg"
+      description: "Hackbeil 5mm"
+
+    - title: "Wiegemesser"
+      filename: "start/Wiege.jpg"
+      description: "Wiegemesser nach alter Vorlage"
