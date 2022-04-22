@@ -1,21 +1,23 @@
-- gallerytext: "<b><u>Tapferes Schneiderlein</u></b><br><br>Messer für einen Schneidermeister zum 60er.<br> Die Klinge ist aus
- Carbon Damast, der Griff aus Hirschhorn mit Olive und gelbem Vulkanfiber. 
- Passend zum Thema wurde in die Messing Endplatte ein verschraubbares “Geheimfach” mit Nadel
- und Faden eingearbeitet<br>
+- gallerytext: "<b><u>Meins</u></b><br><br>Es war an der Zeit einmal ein Messer für mich zu fertigen.<br>
+ Die 10cm Damast-Klinge mit ´großen Rosen` hat einen vollen Erl und wurde auf 58° HRC gehärtet.<br>
+ Die Griffschalen bestehen aus Eibenholz und ´Elforyn`einem perfekten Elfenbein-Ersatz. <br>
+ Als Zwischeneinlage wurde rotes Vulan Fiber verwendet und selbst gefertigte Zierpins bilden den Abschluss.<br>
+ Die Lederscheide mit passender roter Sattlernaht wurde punziert, gefärbt und angepasst.
 "
 
   images:
     - title: 
-      filename: "Lederhose/Schneider/01.jpg"
-      description: "Gesamtansicht"
+      filename: "Lederhose/Meins/01.jpg"
+      description: "Gesamtansicht mit Lederscheide"
 
     - title: 
-      filename: "Lederhose/Schneider/02.jpg"
-      description: "Endplatte mit Initialen"
+      filename: "Lederhose/Meins/02.jpg"
+      description: "Detail Griff, mit Mufflon `Srcimshaw`"
       
     - title: 
-      filename: "Lederhose/Schneider/03.jpg"
-      description: "Das ´Geheimfach´ mit Nadel und Faden"
+      filename: "Lederhose/Meins/03.jpg"
+      description: "Gesamtansicht"
+
 - gallerytext: "<b><u>Tapferes Schneiderlein</u></b><br><br>Messer für einen Schneidermeister zum 60er.<br> Die Klinge ist aus
  Carbon Damast, der Griff aus Hirschhorn mit Olive und gelbem Vulkanfiber. 
  Passend zum Thema wurde in die Messing Endplatte ein verschraubbares “Geheimfach” mit Nadel
