@@ -1,4 +1,19 @@
+- gallerytext: "<b><u>Schweres Gerät</u></b><br>Messer zum 60er eines Transportunternehmers.<br>  
+     Mattierte Klinge mit vollem Erl aus 14C28N Stahl, gehärtet auf 58°HRC. <br> 
+  Die Griffschalen bestehen aus Zwetschgenbaum Holz und Elfenbein Ersatz sowie selbst gefertigten Zierpins. <br>
+  Auf beiden Seiten wurde ein ´Scrimshaw`angefertigt, links das Wappen vom Kanton Wallis, rechts ein Scania Kipper incl. Firmenlogo.<br>
+  Präsentiert wird das Messer in einer Holzschatulle mit zweifärbigen Hartschaum. "
+  images:
+    - title:
+      filename: "besondere/Schny/06.jpg"
+      description: "Ansicht von links"
+    - title:
+      filename: "besondere/Schny/04.jpg"
+      description: "Ansicht von rechts"
 
+    - title:
+      filename: "besondere/Schny/05.jpg"
+      description: "Ansicht in der Holzschatulle "
 
 - gallerytext: "<b><u>Jausn</u></b><br>6er Set Jausen-Steak-Messer aus wildem inox Damast. Griffe 
      aus Zwetschge mit selbst gefertigten Zierpins verstiftet.<br> In den Aufsteller aus gestockter Buche wurden die 
