@@ -1,4 +1,21 @@
+- gallerytext: "<b><u>Tapferes Schneiderlein</u></b><br><br>Messer für einen Schneidermeister zum 60er.<br> Die Klinge ist aus
+ Carbon Damast, der Griff aus Hirschhorn mit Olive und gelbem Vulkanfiber. 
+ Passend zum Thema wurde in die Messing Endplatte ein verschraubbares “Geheimfach” mit Nadel
+ und Faden eingearbeitet<br>
+"
 
+  images:
+    - title: 
+      filename: "Lederhose/Schneider/01.jpg"
+      description: "Gesamtansicht"
+
+    - title: 
+      filename: "Lederhose/Schneider/02.jpg"
+      description: "Endplatte mit Initialen"
+      
+    - title: 
+      filename: "Lederhose/Schneider/03.jpg"
+      description: "Das ´Geheimfach´ mit Nadel und Faden"
 - gallerytext: "<b><u>Tapferes Schneiderlein</u></b><br><br>Messer für einen Schneidermeister zum 60er.<br> Die Klinge ist aus
  Carbon Damast, der Griff aus Hirschhorn mit Olive und gelbem Vulkanfiber. 
  Passend zum Thema wurde in die Messing Endplatte ein verschraubbares “Geheimfach” mit Nadel
