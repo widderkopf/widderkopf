@@ -1,4 +1,22 @@
 ﻿ 
+- gallerytext: "<b><u>Schweres B(T)eil</u></b><br><br> Ein schweres Küchenbeil nach Kundenwunsch<br>    
+    Als Stahl wurde Böhler N690 mit 5mm Stärke verwendet und auf eine Härte von 58°HRC gebracht. <br> 
+    Der Griff besteht aus Brandenberger Ulme mit Büffelhorn .<br>
+    Am Griffende wurde eine polierte Steinnuß eingearbeitet und darauf mittels `Scrimshaw´ das Familienwappen graviert.<br>
+    Mit dabei ist natürlich auch zum Schutz die Lederscheide.
+" 
+  images:
+    - title:
+      filename: "besondere/Toni/06.jpg"
+      description: "Gesamtansicht "
+    - title:
+      filename: "besondere/Toni/07.jpg"
+      description: "Detailansicht Griff"
+    - title:
+      filename: "besondere/Toni/08.jpg"
+      description: "Detailansicht Griffenden mit dem Familienwappen"  
+    
+
 - gallerytext: "<b><u>Nuss trifft Ahorn</u></b><br><br> Diese beiden Messer sind nun im Steirischen 
     Wechselgebiet auf einem Biohof beheimatet<br>    
     Die Klingen sind in Gyuto Form aus Balbach Inox Damast `kleine Rosen gearbeitet und haben eine Härte von 58°HRC. <br> 
@@ -22,7 +40,6 @@
     - title:
       filename: "Kuchl/A_Z/5.jpg"
       description: "Gesamtansicht in den Lederscheiden" 
-
 
   
 
