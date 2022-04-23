@@ -18,7 +18,9 @@ Zusätzlich ist es mir ein Anliegen, das Traditionelle das „Sackmesser“ für
 
 Im Voraus wird nichts gefertigt, mein Grundsatz ist die Individualität eines jeden einzelnen Kunden und des anzufertigenden Messers.
 
-In einem gemeinsamen Gespräch werden die Wünsche notiert und anschließend verwirklicht.
+In einem gemeinsamen Gespräch werden die Wünsche notiert und anschließend verwirklicht.<br>
+Auch sogenante `Scrimshaws`, eine Technik, welche ursprünglich von Matrosen auf Walfängern stammt, bei denen Gravuren 
+auf Knochen, Elfenbein oder Horn eingearbeitet werden, sind erhältlich.
 
 Meine Materialien sind:
 
