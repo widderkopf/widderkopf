@@ -1,4 +1,30 @@
-﻿ 
+﻿- gallerytext: "<b><u>Der Chef</u></b><br><br> Chefmesser für einen Koch von seinem Vater zum 40er<br>    
+    Stahl wurde der Böhler N690 mit 3mm Stärke verwendet und auf eine Härte von 62°HRC gebracht. <br>
+    Am durchgehenden Erl wurde ein Zeirschliff eingearbeitet.<br>
+    Der Griff ist aus gestockter Buche, Büffelhorn, Vulkanfiber in rot und selbstgemachten Pins .<br>
+    Das Griffende wurde mit den Initialen des neuen Besitzers versehen.<br>
+    Mit dabei ein dekorativer Aufsteller aus Schiefer und gestockter Buche, identisch mit dem Griff.
+" 
+  images:
+    - title:
+      filename: "Kuchl/Dominik/01.jpg"
+      description: "Ausgeschnittener Rohling "
+    - title:
+      filename: "Kuchl/Dominik/02.jpg"
+      description: "Rohling mit Griffteilen "
+    - title:
+      filename: "Kuchl/Dominik/03.jpg"
+      description: "Gesamtansicht im Aufsteller "
+    - title:
+      filename: "Kuchl/Dominik/04.jpg"
+      description: "Detail Griff "
+    - title:
+      filename: "Kuchl/Dominik/05.jpg"
+      description: "Detail Klinge "
+    - title:
+      filename: "Kuchl/Dominik/06.jpg"
+      description: "Griff von oben "
+
 - gallerytext: "<b><u>Schweres B(T)eil</u></b><br><br> Ein schweres Küchenbeil nach Kundenwunsch<br>    
     Als Stahl wurde Böhler N690 mit 5mm Stärke verwendet und auf eine Härte von 58°HRC gebracht. <br> 
     Der Griff besteht aus Brandenberger Ulme mit Büffelhorn .<br>
