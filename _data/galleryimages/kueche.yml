@@ -1,6 +1,32 @@
-﻿- gallerytext: "<b><u>Der Chef</u></b><br><br> Chefmesser für einen Koch von seinem Vater zum 40er<br>    
+﻿- gallerytext: "<b><u>Das DUO</u></b><br><br> Enn Chefmesser mit ´kleiner Beigabe´ für seinen besten Freund zum 50ziger 40er<br>    
+    Wilder Zladinox Damast mit 2,5mm Stärke verwendet und auf eine Härte von 59°HRC gebracht. <br>
+    Am durchgehenden Erl wurde ein Zierschliff eingearbeitet.<br>
+    Der Griffe sind aus Nußbaum, Büffelhorn, Vulkanfiber in weiß und selbstgemachten Pins .<br>
+    Die Griffenden wurde mit den Initialen des neuen Besitzers versehen.<br>
+    Mit dabei einpunzierte gefärbte Laderscheide sowie ein dekorativer Aufsteller aus Schiefer und Nußbaum.
+" 
+  images:
+    - title:
+      filename: "Kuchl/Gijs/01.jpg"
+      description: "Gesamtansicht im Aufsteller "
+    - title:
+      filename: "Kuchl/Gijs/02.jpg"
+      description: "Detail Griff "
+    - title:
+      filename: "Kuchl/Gijs/03.jpg"
+      description: "Griff von oben "
+    - title:
+      filename: "Kuchl/Gijs/04.jpg"
+      description: "Das Kleine "
+    - title:
+      filename: "Kuchl/Gijs/05.jpg"
+      description: "Gesamtansicht "
+    - title:
+      filename: "Kuchl/Gijs/06.jpg"
+      description: "Initialen am Griffende "
+- gallerytext: "<b><u>Der Chef</u></b><br><br> Chefmesser für einen Koch von seinem Vater zum 40er<br>    
     Stahl wurde der Böhler N690 mit 3mm Stärke verwendet und auf eine Härte von 62°HRC gebracht. <br>
-    Am durchgehenden Erl wurde ein Zeirschliff eingearbeitet.<br>
+    Am durchgehenden Erl wurde ein Zierschliff eingearbeitet.<br>
     Der Griff ist aus gestockter Buche, Büffelhorn, Vulkanfiber in rot und selbstgemachten Pins .<br>
     Das Griffende wurde mit den Initialen des neuen Besitzers versehen.<br>
     Mit dabei ein dekorativer Aufsteller aus Schiefer und gestockter Buche, identisch mit dem Griff.
@@ -448,28 +474,3 @@ Aufsteller aus Schiefer mit Aufnahmen in Apfelbaum."
       filename: "Kuchl/Renate/04.jpg"
       description: "Detail vom Griff oben"
 
-- gallerytext: "<b><u>Isabella</u></b><br><br>
-Vom Kunden zum Christkind als Geschenk für seine Frau.<br>
-Die Klinge in Bunka-Form gerfertigt, aus wildem Damast der Schmiede Balbach, ist rostfrei und auf 59°HRC gehärtet.<br>
-Das Griff besteht aus Zwetschkenholz, mit eingearbeitet wurden Wasserbüffelhorn und Vulkanfiber.<br>
-Die Zwinge wurde ebenfalls aus Damast gearbeitet. Das Griff Ende ist mit den Initialen der Besitzerin versehen.<br>
-Aufsteller aus Schiefer mit Aufnahmen ebenfalls in Zwetschke."
-  images:
-    - title:
-      filename: "Kuchl/Lukasser/04.jpg"
-      description: "Gesamtansicht im Aufsteller"
-    - title:
-      filename: "Kuchl/Lukasser/01.jpg"
-      description: "Gesamtansicht seitlich mit Aufsteller"    
-    - title:
-      filename: "Kuchl/Lukasser/02.jpg"
-      description: "Detail der Klinge"
-    - title:
-      filename: "Kuchl/Lukasser/06.jpg"
-      description: "Detail Zwinge"
-    - title:
-      filename: "Kuchl/Lukasser/03.jpg"
-      description: "Detailansicht Griff "
-    - title:
-      filename: "Kuchl/Lukasser/05.jpg"
-      description: "Detail vom Griff mit Initialen"
