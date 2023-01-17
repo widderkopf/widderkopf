@@ -1,4 +1,41 @@
-﻿- gallerytext: "<b><u>Seine Majestät</u></b><br><br>
+﻿- gallerytext: "<b><u>Das Auenwald</u></b><br><br>
+    Ein ´großes Erbstück` in einer langen Tradition von Jägern, innerhalb der Familie, sollte es werden.
+    Dieses, für mich ganz besondere Messer, ist, nach einigen Entwürfen und Absprachen entstanden. <br>
+    Klinge aus Böhler N690 3,8mm mit leichtem Hohlschliff<br> Klingenlänge 18cm Gesamtlänge 30,5cm Härte 62° Rockwell<br>
+    Griffmaterial: Nussbaum, Elforyn (Elfenbeinersatz), Aluminium, Messing<br> 
+    Die Zierpins sind Eigenanfertigungen, am Klingenrücken wurden Verzierungen gefeilt<br>
+    Seitlich sind mit Scrimshaw Technik Gravuren angefertigt worden.<br>
+    Scheide: Blankleder 2,5mm gehärtet, gefärbt und punziert. <br>
+    Aufsteller: Hirschhorn, Nussbaum
+    Klingenlänge 18cm Gesamtlänge 30,5cm
+"
+ 
+  images:
+    - title: 
+      filename: "FischerJaeger/Raban/1.jpg"
+      description: "Ansicht links im Aufsteller"
+
+    - title: 
+      filename: "FischerJaeger/Raban/2.jpg"
+      description: "Ansicht rechts im Aufsteller"
+      
+    - title: 
+      filename: "FischerJaeger/Raban/3.jpg"
+      description: "Detailansicht Klingenrücken"
+
+    - title: 
+      filename: "FischerJaeger/Raban/6.jpg"
+      description: "Detailansicht Griff links"
+
+    - title: 
+      filename: "FischerJaeger/Raban/5.jpg"
+      description: "Gesamtansicht Griff rechts"
+      
+    - title: 
+      filename: "FischerJaeger/Raban/4.jpg"
+      description: "Gesamtansicht in der Scheide"
+
+- gallerytext: "<b><u>Seine Majestät</u></b><br><br>
     Als Tribut an den wohl prächtigsten wie auch seltenen Vogel in den Alpen ist diese Messer entstanden.
     Die Klinge wurde aus ´Hakapella´ Damast gefertigt, Griff aus Hirsch- und Büffel-Horn mit Vulkanfiber 
     Einlagen.<br>
@@ -9,29 +46,18 @@
  
   images:
     - title: 
-      filename: "Laden/16.jpg"
-      description: "Gravur in Arbeit"
+      filename: "FischerJaeger/Auerhahn/1.jpg"
+      description: "Detailansicht ´Scrimshaw`"
 
     - title: 
-      filename: "Laden/17.jpg"
+      filename: "FischerJaeger/Auerhahn/2.jpg"
       description: "Gesamt mit Lederscheide"
       
     - title: 
-      filename: "Laden/18.jpg"
-      description: "Detailansicht Klinge"
+      filename: "FischerJaeger/Auerhahn/3.jpg"
+      description: "Gesamt mit Lederscheide"
 
-    - title: 
-      filename: "Laden/19.jpg"
-      description: "Detailansicht Griff"
-
-    - title: 
-      filename: "Laden/20.jpg"
-      description: "Gesamtansicht"
-      
-    - title: 
-      filename: "Laden/21.jpg"
-      description: "Detailansicht Klingenrücken"
-
+    
 - gallerytext: "<b><u><br>Mit fremden Federn</u></b><br><br><br> 
    Ein sehr aufwendiges und wirklich schönes Jagdmesser ist es geworden.<br>
    Hier wurde ausnahmsweise einmal eine bereits fertige, 12cm Nicker-Klinge von Linder Solingen verwendet. Die Klinge wurde leicht mattiert. 
@@ -41,15 +67,15 @@
  
   images:
     - title: 
-      filename: "Laden/01.jpg"
+      filename: "FischerJaeger/FF/2.jpg"
       description: "Gesamtansicht"
 
     - title: 
-      filename: "Laden/02.jpg"
+      filename: "FischerJaeger/FF/1.jpg"
       description: "Detailansicht Griff"
       
     - title: 
-      filename: "Laden/03.jpg"
+      filename: "FischerJaeger/FF/3.jpg"
       description: "Detailansicht Griff"
 
 - gallerytext: "<b><u>Weidmanns - Heil</u></b><br><br>
