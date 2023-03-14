@@ -19,6 +19,25 @@
       filename: "Lederhose/Meins/03.jpg"
       description: "Gesamtansicht"
 
+- gallerytext: "<b><u>Federkiel</u></b><br><br>Vom Federkielsticker wurde ich beauftragt ein passendes Messer für seine Lederhose zu gestalten.<br>
+ Die 10cm Klinge aus Böhler N690 hat einen vollen Erl und wurde auf 60° HRC gehärtet.<br>
+ Die Griffschalen bestehen aus Eibenholz und grünen Einlagen aus Vulkanfiber . <br>
+ Die gestickten Einlagen wurden von ihm angefertigt.
+"
+
+  images:
+    - title: 
+      filename: "Lederhose/Feder/1.jpg"
+      description: "Gesamtansicht links"
+
+    - title: 
+      filename: "Lederhose/Feder/2.jpg"
+      description: "Gesamtansicht rechts"
+      
+    - title: 
+      filename: "Lederhose/Feder/3.jpg"
+      description: "Klingenrücken mit Verzierungen"
+
 - gallerytext: "<b><u>Tapferes Schneiderlein</u></b><br><br>Messer für einen Schneidermeister zum 60er.<br> Die Klinge ist aus
  Carbon Damast, der Griff aus Hirschhorn mit Olive und gelbem Vulkanfiber. 
  Passend zum Thema wurde in die Messing Endplatte ein verschraubbares “Geheimfach” mit Nadel
