@@ -177,14 +177,30 @@
       
     - title: 
       filename: "Laden/12.jpg"
-      description: "03 Akazie mit Hirschhorn und Vulkanfiber"
+      description: "02 Akazie mit Hirschhorn und Vulkanfiber"
 
     - title: 
       filename: "Laden/13.jpg"
-      description: "04 Esche mit Wasserbüffel und Vulkanfiber"
+      description: "03 Esche mit Wasserbüffel und Vulkanfiber"
       
     - title: 
       filename: "Laden/15.jpg"
-      description: "06 Magnolie mit Zwetschge und Vulkanfiber"
+      description: "04 Magnolie mit Zwetschge und Vulkanfiber"
+
+    - title: 
+      filename: "Laden/1.jpg"
+      description: "05 Hirschhorn mit Tujenwurzel und Vulkanfiber"
+
+    - title: 
+      filename: "Laden/2.jpg"
+      description: "06 Dammwild mit gestockter Buche und Vulkanfiber"
+
+    - title: 
+      filename: "Laden/3.jpg"
+      description: "07 Hirschhorn mit Eibe und Vulkanfiber"
+
+    - title: 
+      filename: "Laden/4.jpg"
+      description: "08 Kirsche mit gestockter Buche und Vulkanfiber"
     
 
