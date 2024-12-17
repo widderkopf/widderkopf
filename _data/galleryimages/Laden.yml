@@ -121,15 +121,14 @@
  Auf der Linken Seite befindet sich die Gravur einer auffliegenden Ente <br>
  Lederscheide in schwarz und Holzkassette sind ebenfalls dabei.<br><br>
  Preis 475,- ohne Gravur, bei Interesse bitte hier klicken <a href='/kontakt?messagetext=Interesse am Jagdmesser Entenjagd'>Kontaktaufnahme</a>.<br><br>"
-
   images:
-    - title: 
-      filename: "Laden/009.jpg"
-      description: "Gesamtansicht in der Scheide"
-
     - title: 
       filename: "Laden/008.jpg"
       description: "Gesamtansicht"
+
+    - title: 
+      filename: "Laden/009.jpg"
+      description: "Detailansicht Gravur"
 
     - title: 
       filename: "Laden/010.jpg"
