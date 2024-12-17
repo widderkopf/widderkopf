@@ -44,6 +44,23 @@
       filename: "Laden/004.jpg"
       description: "Gesamtansicht in der Scheide"
 
+- gallerytext: "<b><u>Der Widder</u></b> <br> Diese Arbeit entstand aus dem Gedanken wieder einmal etwas unkonventionelles zu erschaffen<br>
+     Die Klinge ist aus wunderschönem Rosen Carbon Damast auf 59°HRC gehärtet. <br>Der Griff besteht aus Apfelbaum und Zwetkenholz mit seitlichen Einlagen aus weißem Vulkanfiber 
+     und ist mit Zierpins mit dem durchgehenden Erl verbunden.<br>
+     Lederscheide aus Hirschleder ist natürlich mit dabei. <br><br>
+     Preis 475,- bei Interesse bitte hier klicken <a href='/kontakt?messagetext=Interesse am Widder'>Kontaktaufnahme</a>.<br><br>"
+  images:
+    - title:
+      filename: "Laden/10.jpg"
+      description: "Gesamtansicht "
+    - title:
+      filename: "Laden/11.jpg"
+      description: "Detailansicht Klinge"
+    - title:
+      filename: "Laden/12.jpg"
+      description: "Detailansicht Griff"
+    
+
 - gallerytext: "<b><u><br>S` Alpbachtaler für die Lederhose </u></b><br><br> 
  Das Lederhosen-Messer gibt es nur in dieser Ausfertigung. Ein Unikat ist trotzdem ein jedes, da Maserung von Holz, Marmor und Damast 
  jedesmal voneinander abweichen.<br> 
@@ -149,36 +166,26 @@
  Preis ab 195,- bei Interesse bitte hier klicken <a href='/kontakt?messagetext=Interesse am Sackmesser mit Nummer'>Kontaktaufnahme</a>.<br><br>"
  
   images:
-    - title: 
-      filename: "Laden/10.jpg"
-      description: "01 Zwetschge mit Wasserbüffel und Vulkanfiber 225,-"
-      
+          
     - title: 
       filename: "Laden/12.jpg"
-      description: "02 Akazie mit Hirschhorn und Vulkanfiber 195,-"
+      description: "01 Akazie mit Hirschhorn und Vulkanfiber 195,-"
 
     - title: 
       filename: "Laden/13.jpg"
-      description: "03 Esche mit Wasserbüffel und Vulkanfiber 195,-"
+      description: "02 Esche mit Wasserbüffel und Vulkanfiber 195,-"
       
     - title: 
       filename: "Laden/15.jpg"
-      description: "04 Magnolie mit Zwetschge und Vulkanfiber 195,-"
+      description: "03 Magnolie mit Zwetschge und Vulkanfiber 195,-"
 
     - title: 
       filename: "Laden/1.jpg"
-      description: "05 Hirschhorn mit Tujenwurzel und Vulkanfiber 225,-"
+      description: "04 Hirschhorn mit Tujenwurzel und Vulkanfiber 225,-"
       
-    - title: 
-      filename: "Laden/2.jpg"
-      description: "06 Dammhirsch mit gestockter Buche und Vulkanfiber 195,-"
-
-    - title: 
+        - title: 
       filename: "Laden/3.jpg"
-      description: "07 Hirschhorn mit Eibe und Vulkanfiber 195,-"
+      description: "05 Hirschhorn mit Eibe und Vulkanfiber 195,-"
       
-    - title: 
-      filename: "Laden/4.jpg"
-      description: "08 Kirsche mit gestockter Buche und Vulkanfiber 225,-"
     
 
