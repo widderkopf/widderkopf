@@ -16,10 +16,10 @@ Angefangen mit einem eigenen selbstgemachten Messer,  einige Geschenke an gute F
 
 Zusätzlich ist es mir ein Anliegen, das Traditionelle das „Sackmesser“ für die Lederhose wieder aufleben zu lassen.
 
-Im Voraus wird nichts gefertigt, mein Grundsatz ist die Individualität eines jeden einzelnen Kunden und des anzufertigenden Messers.
+Mein Grundsatz ist die Individualität eines jeden einzelnen Kunden und des anzufertigenden Messers.
 
 In einem gemeinsamen Gespräch werden die Wünsche notiert und anschließend verwirklicht.<br>
-Auch sogenante `Scrimshaws`, eine Technik, welche ursprünglich von Matrosen auf Walfängern stammt, bei denen Gravuren 
+Auch sogenante Scrimshaws, eine Technik, die ursprünglich von Matrosen auf Walfangschiffen stammt, bei denen Gravuren 
 auf Knochen, Elfenbein oder Horn eingearbeitet werden, sind erhältlich.
 
 Meine Materialien sind:
@@ -30,7 +30,7 @@ Weiter wird Carbon und Inox-Damast, vorwiegend aus der Schmiede Balbach in Deuts
 Auch rostträger Sandvik Stahl aus Schweden kommt zum Einsatz.
 
 Für die Griffe werden Nussbaum, Zwetschken, Kirsch, Akazien und diverse andere jedoch ausschließlich heimische Hölzer verwendet.
-Auch Hirsch-, Wasserbüffel- und Kuh-horn sowie Vulkanfiber und Zier-Pins kommen zum Einsatz .
+Auch Hirsch-, Wasserbüffel- und Kuh-horn sowie Vulkanfiber und selbst angefertigte Zier-Pins kommen zum Einsatz .
 Das Leder für die unterschiedlichen Scheiden wird ebenfalls von mir selbst verarbeitet.
 
 In der Galerie können, meine verwendeten Materialien sowie, ein Teil meiner bisherigen Arbeiten eingesehen werden.
