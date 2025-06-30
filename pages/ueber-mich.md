@@ -7,7 +7,7 @@ teaser: ""
 permalink: "/ueber-mich/"
 ---
 
-<img src="{{site.baseurl}}/assets/galleryimages/start/Lasi.jpg">
+<img src="{{site.baseurl}}/assets/galleryimages/start/Ich.jpg">
 
 Servus, mein Name ist Markus Lasinger, ich bin Jahrgang 1970 und eher zufällig in dieses Hobby hineingeraten.<br>
 Sicherlich sind ein paar Gene meines Großvaters in mir verblieben, er war Sägerichter „Sågfeiler“ und als Bub habe ich ihm viele Stunden in seiner Werkstatt über die Schulter geschaut und auch mitgeholfen.
