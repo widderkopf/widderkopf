@@ -1,3 +1,40 @@
+
+- gallerytext: "<b><u><br>S` Alpbachtaler Küchenmesser</u></b><br><br><br> 
+ Das Küchenmesser gibt es ebenfalls nur in dieser Ausfertigung. Ein Unikat ist trotzdem ein jedes, da Maserung von Holz, Marmor und Damast 
+ jedesmal voneinander abweichen.<br> 
+ Auch hier wird das eingearbeitete Wappen, aus Kirschholz, am Griff-ende individuell mit Initialen oder Logo versehen.
+ Für den Griff wird Apfelbaum Holz mit einer Zwischenlage aus Kramsacher Marmor verwendet und einer Platte aus Kupfer stellvertretend für den früheren
+ Kupferabbau in der Region. <br> 
+ Die Klinge ist aus wildem Inox Damast.<br> 
+ Ausgestattet wird das Messer mit einem Aufsteller aus Schiefer mit Apfelbaum, oder auf Wunsch mit Lederscheide.<br>
+ Auch als 3er Set erhältlich "
+
+  images:
+    - title: 
+      filename: "Alpbachtaler/01.jpg"
+      description: "Gesamtansicht"
+
+    - title: 
+      filename: "Alpbachtaler/02.jpg"
+      description: "Gesamtansicht"
+      
+    - title: 
+      filename: "Alpbachtaler/04.jpg"
+      description: "Detailansicht Griff"
+      
+      images:
+    - title: 
+      filename: "Alpbachtaler/03.jpg"
+      description: "Deteilansicht der Klinge"
+
+    - title: 
+      filename: "Alpbachtaler/05.jpg"
+      description: "Griff-ende, Wappen für Initialen"
+
+    - title: 
+      filename: "Alpbachtaler/S´Alpbachtaler 3er.jpg"
+      description: "S´Alpbachtaler 3er Set"
+      
 - gallerytext: "<b><u><br>S` Alpbachtaler für die Lederhose </u></b><br><br> 
  Das Lederhosen-Messer gibt es nur in dieser Ausfertigung. Ein Unikat ist trotzdem ein jedes, da Maserung von Holz, Marmor und Damast 
  jedesmal voneinander abweichen.<br> 
@@ -32,35 +69,3 @@
       description: "Nochmals mit Hagauer Brekzie"
 
 
-- gallerytext: "<b><u><br>S` Alpbachtaler Küchenmesser</u></b><br><br><br> 
- Das Küchenmesser gibt es ebenfalls nur in dieser Ausfertigung. Ein Unikat ist trotzdem ein jedes, da Maserung von Holz, Marmor und Damast 
- jedesmal voneinander abweichen.<br> 
- Auch hier wird das eingearbeitete Wappen, aus Kirschholz, am Griff-ende individuell mit Initialen oder Logo versehen.
- Für den Griff wird Apfelbaum Holz mit einer Zwischenlage aus Kramsacher Marmor verwendet und einer Platte aus Kupfer stellvertretend für den früheren
- Kupferabbau in der Region. <br> 
- Die Klinge ist je nach Wunsch aus wildem Inox Damast, oder AEB-L Monostahl.<br> 
- Ausgestattet wird das Messer mit einem Aufsteller aus Schiefer mit Apfelbaum, oder auf Wunsch mit Lederscheide.<br>"
-
-  images:
-    - title: 
-      filename: "Alpbachtaler/01.jpg"
-      description: "Gesamtansicht"
-
-    - title: 
-      filename: "Alpbachtaler/02.jpg"
-      description: "Gesamtansicht"
-      
-    - title: 
-      filename: "Alpbachtaler/04.jpg"
-      description: "Detailansicht Griff"
-      
-      images:
-    - title: 
-      filename: "Alpbachtaler/03.jpg"
-      description: "Deteilansicht der Klinge"
-
-    - title: 
-      filename: "Alpbachtaler/05.jpg"
-      description: "Griff-ende, Wappen für Initialen"
-      
-    
